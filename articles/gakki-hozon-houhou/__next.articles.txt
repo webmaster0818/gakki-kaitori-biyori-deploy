@@ -1,5 +1,0 @@
-1:"$Sreact.fragment"
-2:I[8268,["/_next/static/chunks/09j49wvytgn~b.js","/_next/static/chunks/0ys0j2.tathwn.js"],"default"]
-3:I[57099,["/_next/static/chunks/09j49wvytgn~b.js","/_next/static/chunks/0ys0j2.tathwn.js"],"default"]
-4:I[8991,["/_next/static/chunks/09j49wvytgn~b.js","/_next/static/chunks/0ys0j2.tathwn.js","/_next/static/chunks/0outce7p.hluu.js"],"default"]
-0:{"rsc":["$","$1","c",{"children":[[["$","script","script-0",{"src":"/_next/static/chunks/0outce7p.hluu.js","async":true}]],["$","div",null,{"className":"gakki-reveal","children":[["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}],["$","$L4",null,{}]]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"0dasSmLIxSCA57yx7_xa0"}
