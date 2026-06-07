@@ -244,4 +244,4 @@
 :HL["/images/services/hikakaku.webp","image"]
 :HL["/images/services/tifana.webp","image"]
 :HL["/images/services/uriel.webp","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"w5ErN2c56hQtaMDwU7Xdd"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"0dasSmLIxSCA57yx7_xa0"}
